@@ -9,23 +9,16 @@ Assignment 1
 # pip install ansible
 
 
-link - https://github.com/lovedeepsh/ansible/blob/master/ansible%20day1%20image/pipans.png
-
-path -  ansible/ansible day1 image/pipans.png 
-
-
-
-
-
+![Job DSL Plugin](https://github.com/lovedeepsh/ansible/blob/master/ansible%20day1%20image/pipans.png)
 
 
 
 
 2. Display the Ansible version and man page to STDOUT.
  
-link - https://github.com/lovedeepsh/ansible/blob/master/ansible%20day1%20image/version.png
+![Job DSL Plugin](https://github.com/lovedeepsh/ansible/blob/master/ansible%20day1%20image/version.png)
 
-path -  ansible/ansible day1 image/version.png 
+
 
 3. Check all the possible parameters you need to know in ansible.cfg file. 
 Here are some important possible parameter in ansible.cfg :-
@@ -51,9 +44,9 @@ Here are some important possible parameter in ansible.cfg :-
 # ansible -m ping all
 output :-
 
-link - https://github.com/lovedeepsh/ansible/blob/master/ansible%20day1%20image/pingpong.png
+![Job DSL Plugin](https://github.com/lovedeepsh/ansible/blob/master/ansible%20day1%20image/pingpong.png)
 
-path -  ansible/ansible day1 image/pingpong.png 
+
 
 
 5. In ~/.ansible.cfg file (create the file if it doesn't exist already) do the following: 
@@ -69,9 +62,9 @@ Set the Ansible system forks to 10
 retry_files_save_path = ~/.ansible/retry-files
 forks = 5
 
-link - https://github.com/lovedeepsh/ansible/blob/master/ansible%20day1%20image/ansible.cfg.png
+![Job DSL Plugin](https://github.com/lovedeepsh/ansible/blob/master/ansible%20day1%20image/ansible.cfg.png)
 
-path - ansible/ansible day1 image/ansible.cfg.png
+
 
 
 
