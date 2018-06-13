@@ -38,7 +38,7 @@ output :- "ansible_fqdn": "ubuntu-xenial",
 ```
 # ansible all -m apt_repository -u root -a “repo=ppa:webupd8team/java"
 # ansible all -m command -a "sudo apt-get update"
-# ansible all -m apt -u root -a "name=nginx state=present"
+# ansible all -m apt -u root -a "name=oracle-java8-installer state=present"
 ```
 
 7. Setup and enable the EPEL package repository on the hosts in the "web" group using the yum module. 
