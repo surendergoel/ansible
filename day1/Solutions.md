@@ -2,12 +2,13 @@ DAY 1 ANSIBLE
 
 Assignment 1
 1. Use pip to install the ansible package and its dependencies to your control machine. 
+```
 # sudo apt-get install python-pip
 # pip install jinja2
 # pip install pyYAML
 # pip install paramiko
 # pip install ansible
-
+```
 
 ![Job DSL Plugin](https://github.com/lovedeepsh/ansible/blob/master/ansible%20day1%20image/pipans.png)
 
@@ -41,7 +42,9 @@ Here are some important possible parameter in ansible.cfg :-
 - Intalled Ansible on master and created ssh connection between them by using public key of master.
 - Given the IP adresses of both the slaves in “/etc/ansible/hosts” file.
 - Run the command
+```
 # ansible -m ping all
+```
 output :-
 
 ![Job DSL Plugin](https://github.com/lovedeepsh/ansible/blob/master/ansible%20day1%20image/pingpong.png)
@@ -52,12 +55,14 @@ output :-
 5. In ~/.ansible.cfg file (create the file if it doesn't exist already) do the following: 
 Create a new directory ~/.ansible/retry-files and set retry_files_save_path to it. 
 Set the Ansible system forks to 10 
+```
 # cd ~
 # touch .ansible.cfg
 # cd .ansible
 # mkdir retry-files
 # cd ..
 # sudo vim .ansible.cfg
+```
 [defaults]
 retry_files_save_path = ~/.ansible/retry-files
 forks = 5
