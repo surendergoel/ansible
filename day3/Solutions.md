@@ -15,7 +15,7 @@ Assignment 1
 ```
 # ansible all -a "sudo hostname lovedeep"
 ``` 
-![Job DSL Plugin]()
+![Job DSL Plugin](https://github.com/lovedeepsh/ansible/blob/master/ansible%20day3%20images/hostname.png)
 
 3. Fetch os of all nodes and store o/p into a file, use min two different machine of different flavour of os.
 ```
@@ -23,8 +23,8 @@ Assignment 1
 ```
 
 output :-
-![Job DSL Plugin]()
-![Job DSL Plugin]()
+![Job DSL Plugin](https://github.com/lovedeepsh/ansible/blob/master/ansible%20day3%20images/os-output.png)
+![Job DSL Plugin](https://github.com/lovedeepsh/ansible/blob/master/ansible%20day3%20images/os-output2.png)
 
  
 4. Add three group into hosts file through ansible module. 
@@ -71,7 +71,7 @@ Step2:
 ```
 # ansible Centos -m lineinfile -u root -a "path=/etc/nginx/nginx.conf state=present regexp='listen       [::]:80 default_server;' line='listen       [::]:8080 default_server;'"
 ```
-![Job DSL Plugin]()
+![Job DSL Plugin](https://github.com/lovedeepsh/ansible/blob/master/ansible%20day3%20images/nginx8080.png)
 
 
 Step3:
