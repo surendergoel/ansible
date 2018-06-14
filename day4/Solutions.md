@@ -43,4 +43,7 @@ While developing the playbook use the --syntax-check to check your work and debu
        state: started
 
 
+![Job DSL Plugin](https://github.com/lovedeepsh/ansible/blob/master/ansible%20day4%20image/playbookoutput.png)
+![Job DSL Plugin](https://github.com/lovedeepsh/ansible/blob/master/ansible%20day4%20image/-vvvv.png)
+
 
