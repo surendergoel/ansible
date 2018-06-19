@@ -22,11 +22,19 @@ Then I created the playbook by giving hosts -> node2 and created various task ac
 
 1. YML File
 
+![Job DSL Plugin](https://github.com/lovedeepsh/ansible/blob/master/ansible%20day7%20images/swpyml.png)
+
 
 2. YML Output
+
+![Job DSL Plugin](https://github.com/lovedeepsh/ansible/blob/master/ansible%20day7%20images/swprun.png)
 
 
 3. SWAP Space on Node2
 
+![Job DSL Plugin](https://github.com/lovedeepsh/ansible/blob/master/ansible%20day7%20images/swpadd.png)
+
 
 4. Error for creating 1GB swap space with dd command
+
+![Job DSL Plugin](https://github.com/lovedeepsh/ansible/blob/master/ansible%20day7%20images/errordd.png)
