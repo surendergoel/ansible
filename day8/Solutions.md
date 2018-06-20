@@ -25,11 +25,11 @@ Created 5 users
 ```
 Usermanagement Playbook
 
-![Job DSL Plugin]()
+![Job DSL Plugin](https://github.com/lovedeepsh/ansible/blob/master/day8/Usermanagement.yml)
 
 Usermanagement run
 
-![Job DSL Plugin]()
+![Job DSL Plugin](https://github.com/lovedeepsh/ansible/blob/master/ansible%20day8%20images/Usermanagementrun.png)
 
 
 
@@ -43,50 +43,37 @@ Usermanagement run
 
 LVM YML
 
-![Job DSL Plugin]()
+![Job DSL Plugin](https://github.com/lovedeepsh/ansible/blob/master/day8/lvol.yml)
 
 LVM RUN
 
-![Job DSL Plugin]()
+![Job DSL Plugin](https://github.com/lovedeepsh/ansible/blob/master/ansible%20day8%20images/finalrun.png)
 
-STEPS:-
+Trials :-
 
-1.
+link - https://github.com/lovedeepsh/ansible/tree/master/ansible%20day8%20images
 
-![Job DSL Plugin]()
 
-2.
+Modules Used :-
 
-![Job DSL Plugin]()
+1. Usermanagement
 
-3.
+- group
 
-![Job DSL Plugin]()
+- user
 
-4.
+- file 
 
-![Job DSL Plugin]()
+2. LVOL
 
-5.
+- apt
 
-![Job DSL Plugin]()
+- lvg
 
-6.
+- lvol
 
-![Job DSL Plugin]()
+- filesystem
 
-7.
+- file
 
-![Job DSL Plugin]()
-
-8.
-
-![Job DSL Plugin]()
-
-9.
-
-![Job DSL Plugin]()
-
-10.
-
-![Job DSL Plugin]()
+- mount
