@@ -25,10 +25,11 @@ Created 5 users
 ```
 Usermanagement Playbook
 
+![Job DSL Plugin]()
 
 Usermanagement run
 
-
+![Job DSL Plugin]()
 
 
 
@@ -42,27 +43,50 @@ Usermanagement run
 
 LVM YML
 
+![Job DSL Plugin]()
 
 LVM RUN
 
+![Job DSL Plugin]()
 
 STEPS:-
+
 1.
+
+![Job DSL Plugin]()
 
 2.
 
+![Job DSL Plugin]()
+
 3.
+
+![Job DSL Plugin]()
 
 4.
 
+![Job DSL Plugin]()
+
 5.
+
+![Job DSL Plugin]()
 
 6.
 
+![Job DSL Plugin]()
+
 7.
+
+![Job DSL Plugin]()
 
 8.
 
+![Job DSL Plugin]()
+
 9.
 
+![Job DSL Plugin]()
+
 10.
+
+![Job DSL Plugin]()
