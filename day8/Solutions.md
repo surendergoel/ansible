@@ -25,7 +25,10 @@ Created 5 users
 ```
 Usermanagement Playbook
 
-![Job DSL Plugin](https://github.com/lovedeepsh/ansible/blob/master/day8/Usermanagement.yml)
+
+https://github.com/lovedeepsh/ansible/blob/master/day8/Usermanagement.yml
+
+
 
 Usermanagement run
 
@@ -43,11 +46,14 @@ Usermanagement run
 
 LVM YML
 
-![Job DSL Plugin](https://github.com/lovedeepsh/ansible/blob/master/day8/lvol.yml)
+https://github.com/lovedeepsh/ansible/blob/master/day8/lvol.yml
+
+
 
 LVM RUN
 
 ![Job DSL Plugin](https://github.com/lovedeepsh/ansible/blob/master/ansible%20day8%20images/finalrun.png)
+
 
 Trials :-
 
