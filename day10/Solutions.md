@@ -16,9 +16,13 @@ Java role should be available separately for tomcat's dependency and will be exe
 
 
 
+Java Role run: 
 
+![Job DSL Plugin](https://github.com/lovedeepsh/ansible/blob/master/ansible%20day10%20images/javarolerun.png)
 
+Nginx Role run:
 
+![Job DSL Plugin](https://github.com/lovedeepsh/ansible/blob/master/ansible%20day10%20images/nginxrun.png)
 
 
 
@@ -26,10 +30,14 @@ Java role should be available separately for tomcat's dependency and will be exe
 
 1. Java role
 
+https://github.com/lovedeepsh/ansible/tree/master/day10/java
 
 
 2. Nginx role
 
+https://github.com/lovedeepsh/ansible/tree/master/day10/nginx
 
 
 3. Tomcat role
+
+https://github.com/lovedeepsh/ansible/tree/master/day10/tomcat
